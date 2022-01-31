@@ -39,7 +39,7 @@ const  map2 = matriz2.map(b => b*3);
 const  map3 = matriz3.map(c => c*3); 
 
     console.log ("Los numeros multiplicados del array x3 es igual a:", [map1,map2,map3]);
-//4) Dada la siguiente matriz = [[ 1, 2, 3 ],[ 4, 5 ],[ 6 ]];
+//4) Dada la siguiente matriz = [[ 1, 2, 3 ],[ 4, 5 ],[ 6   ]];
 //utilice reduce para encontrar el producto de sus elementos,
 //resultado esperado: 720...
 //
